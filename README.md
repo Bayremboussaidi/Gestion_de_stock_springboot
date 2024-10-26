@@ -1,1 +1,1 @@
-# Gestion_de_stock_springboot
+**Gestion de Stock** est une application backend développée avec **Spring Boot** comme backend  , avec **MySQL** comme base de donnée . Il permet de gérer les opérations liées à la gestion des stocks, y compris la gestion des clients, des commandes, des produits et des fournisseurs
